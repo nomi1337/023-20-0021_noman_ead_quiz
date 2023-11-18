@@ -1,0 +1,407 @@
+.indulge-in-a {
+  margin: 0;
+}
+.indulge-in-a-container {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  display: inline-block;
+  width: 537px;
+}
+.hero-section,
+.image-2-icon {
+  position: absolute;
+  height: 350px;
+}
+.image-2-icon {
+  top: 0;
+  left: 586px;
+  width: 350px;
+  object-fit: cover;
+}
+.hero-section {
+  top: 196px;
+  left: 18px;
+  width: 936px;
+}
+.bakerys-store-child {
+  position: absolute;
+  top: 748px;
+  left: 382px;
+  width: 230px;
+  height: 234px;
+  object-fit: cover;
+}
+.bakerys-store-item,
+.group-child,
+.group-inner,
+.group-item,
+.rectangle-icon {
+  position: absolute;
+  top: 748px;
+  left: 670px;
+  width: 230px;
+  height: 234px;
+  object-fit: cover;
+}
+.group-child,
+.group-inner,
+.group-item,
+.rectangle-icon {
+  top: 0;
+  left: 0;
+}
+.group-inner,
+.group-item,
+.rectangle-icon {
+  top: 392px;
+}
+.group-inner,
+.rectangle-icon {
+  left: 288px;
+}
+.rectangle-icon {
+  left: 576px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 748px;
+  left: 94px;
+  width: 806px;
+  height: 626px;
+}
+.our-offerings {
+  position: absolute;
+  top: 644px;
+  left: 38px;
+  font-size: var(--font-size-9xl);
+}
+.barfi-rs-900-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 164px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 174px;
+  height: 47px;
+}
+.order-now,
+.rectangle-group {
+  position: absolute;
+  top: 12px;
+  left: 35px;
+}
+.rectangle-group {
+  top: 79px;
+  left: 0;
+  width: 174px;
+  height: 47px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.barfi-rs-900-group,
+.barfi-rs-900-parent {
+  position: absolute;
+  top: 964px;
+  left: 129px;
+  width: 174px;
+  height: 126px;
+  font-size: var(--font-size-9xl);
+}
+.barfi-rs-900-group {
+  top: 974px;
+  left: 438px;
+}
+.barfi-rs-900-parent1,
+.barfi-rs-900-parent2,
+.barfi-rs-900-parent3,
+.group-div {
+  position: absolute;
+  top: 984px;
+  left: 747px;
+  width: 174px;
+  height: 126px;
+  font-size: var(--font-size-9xl);
+}
+.barfi-rs-900-parent1,
+.barfi-rs-900-parent2,
+.barfi-rs-900-parent3 {
+  top: 1374px;
+  left: 134px;
+}
+.barfi-rs-900-parent2,
+.barfi-rs-900-parent3 {
+  top: 1390px;
+  left: 433px;
+}
+.barfi-rs-900-parent3 {
+  left: 721px;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #c1c4c0;
+  width: 1028px;
+  height: 935px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 36.3px;
+  left: 524px;
+  width: 402px;
+  height: 296.2px;
+  object-fit: cover;
+}
+.about-us,
+.at-our-bakery-container {
+  position: absolute;
+  top: 211.8px;
+  left: 0;
+  display: inline-block;
+  width: 934px;
+  height: 427.8px;
+}
+.about-us {
+  top: 0;
+  left: 44px;
+  font-size: var(--font-size-21xl);
+  width: 251px;
+  height: 43px;
+}
+.at-our-bakery-baking-isnt-ju-parent {
+  position: absolute;
+  top: 146.8px;
+  left: 57px;
+  width: 934px;
+  height: 639.6px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 1585px;
+  left: 0;
+  width: 1028px;
+  height: 935px;
+  color: var(--color-black);
+}
+.bakerys-store-inner {
+  position: absolute;
+  top: 2520px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1028px;
+  height: 651px;
+}
+/* .bakerys-store-child1 {
+  position: absolute;
+  top: 3095px;
+  left: 696px;
+  border-radius: var(--br-3xs);
+  background-color: green;
+  width: 203px;
+  height: 56px;
+} */
+.contact-us {
+  position: absolute;
+  top: 2551px;
+  left: 44px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+}
+/* .bakerys-store-child2 {
+  position: absolute;
+  top: 2656px;
+  left: 57px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 324px;
+  height: 65px;
+} */
+.full-name {
+  border-radius: 10px;
+  position: absolute;
+  height: 60px;
+  width: 310px;
+  top: 2660px;
+  left: 70px;
+  color: var(--color-gray);
+}
+/* .bakerys-store-child3 {
+  position: absolute;
+  top: 2656px;
+  left: 575px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 324px;
+  height: 65px;
+} */
+.phone {
+  height: 60px;
+  width: 310px;
+  position: absolute;
+  top: 2660px;
+  border-radius: 10px;
+  left: 600px;
+  color: var(--color-gray);
+}
+/* .bakerys-store-child4 {
+  position: absolute;
+  top: 2778px;
+  left: 57px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 324px;
+  height: 65px;
+} */
+.address {
+  height: 60px;
+  width: 310px;
+  position: absolute;
+  top: 2799px;
+  border-radius: 10px;
+  left: 90px;
+  color: var(--color-gray);
+}
+.bakerys-store-child5 {
+  position: absolute;
+  top: 2891px;
+  left: 57px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 842px;
+  height: 168px;
+}
+.description {
+  position: absolute;
+  top: 2913px;
+  left: 100px;
+  display: inline-block;
+  color: var(--color-gray);
+  width: 257px;
+}
+/* .bakerys-store-child6 {
+  position: absolute;
+  top: 2778px;
+  left: 575px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 324px;
+  height: 65px;
+} */
+.email,
+.submit {
+  position: absolute;
+}
+.email {
+  height: 60px;
+  width: 310px;
+  position: absolute;
+  top: 2799px;
+  border-radius: 10px;
+  left: 600px;
+  color: var(--color-gray);
+}
+.submit {
+  top: 3100px;
+  left: 720px;
+  height: 40px;
+  width: 180px;
+  border-radius: 10px;
+  background-color: green;
+  cursor: pointer;
+}
+/* .bakerys-store-child7 {
+  position: absolute;
+  top: 3171px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1028px;
+  height: 120px;
+} */
+.all-rights-are {
+  position: absolute;
+  top: 3219px;
+  left: 346px;
+}
+.group-child7 {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 136px;
+}
+.group-child7,
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.about-us1,
+.contact,
+.menu {
+  position: absolute;
+  top: 0;
+  left: 95px;
+}
+.about-us1,
+.contact {
+  left: 176px;
+}
+.contact {
+  left: 303px;
+}
+.home-parent,
+.image-1-icon {
+  position: absolute;
+  top: 56px;
+  left: 484px;
+  width: 379px;
+  height: 24px;
+}
+.image-1-icon {
+  top: 0;
+  left: 0;
+  width: 102px;
+  height: 124px;
+  object-fit: cover;
+}
+.group-parent,
+.rectangle-parent6 {
+  position: absolute;
+  top: 0;
+  left: 71px;
+  width: 863px;
+  height: 124px;
+}
+.rectangle-parent6 {
+  left: 0;
+  width: 1028px;
+  height: 136px;
+  color: var(--color-black);
+}
+.bakerys-store {
+  position: relative;
+  background-color: #464343;
+  width: 100%;
+  height: 3291px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
